@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202604054",
+ "ten": "VuDuyThe",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "thevu",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000027565.jpg",
+  "000000137767.jpg",
+  "000000213933.jpg",
+  "000000261732.jpg",
+  "000000493741.jpg",
+  "000000156986.jpg",
+  "000000177338.jpg",
+  "000000516902.jpg",
+  "000000210604.jpg",
+  "000000480582.jpg",
+  "000000106051.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_147624.jpg",
+  "face_155465.jpg",
+  "face_300399.jpg",
+  "face_356144.jpg",
+  "face_53580.jpg",
+  "face_168953.jpg",
+  "face_146049.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-VuDuyThe"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-VuDuyThe"
+  }
+ }
+}
